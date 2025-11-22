@@ -87,8 +87,17 @@ python main.py
 🖼️ Screenshots
 🔹 Main Menu
 <img src="https://github.com/professor66607/Expense-Tracker/blob/main/Screenshot%202025-11-22%20212139.png?raw=true" width="600px">
+
+
+
+
 🔹 Add Expense
 <img src="https://github.com/professor66607/Expense-Tracker/blob/main/Screenshot%202025-11-22%20212203.png?raw=true" width="600px">
+
+
+
+
+
 👤 Author
 
 Yashwanth Gowda
