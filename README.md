@@ -1,7 +1,7 @@
 📊 Expense Tracker (Python + SQLite)
 
 A simple and efficient command-line Expense Tracker built using Python + SQLite.
-This project helps you track your daily expenses with features to add, view, update, delete, search, and filter expenses easily.
+This project allows users to add, view, update, delete, search, and filter expenses effortlessly.
 
 🚀 Features
 ✔ Add Expense
@@ -18,15 +18,11 @@ Date (YYYY-MM-DD)
 
 ✔ View All Expenses
 
-Displays all stored expenses in a clean tabular format.
-
-✔ Delete Expense
-
-Delete any expense using its unique ID.
+Shows all saved expenses in a clean table format.
 
 ✔ Update Expense
 
-Modify existing records:
+Update:
 
 Title
 
@@ -36,17 +32,27 @@ Category
 
 Date
 
+✔ Delete Expense
+
+Delete any expense using its unique ID.
+
 ✔ Filter by Category
 
-View expenses belonging to a specific category.
+View only expenses of a selected category.
 
 ✔ Filter by Date Range
 
-Useful for weekly, monthly, or custom range reports.
+Perfect for:
+
+Weekly reports
+
+Monthly reports
+
+Custom periods
 
 ✔ Search Expenses
 
-Search using partial text in:
+Search using partial text from:
 
 Title
 
@@ -58,7 +64,7 @@ Python
 
 SQLite
 
-SQL Queries
+SQL
 
 VS Code
 
@@ -74,35 +80,27 @@ Expense-Tracker/
 ▶️ How to Run the Project
 1️⃣ Create the Database
 
-Run this file once:
+Run this command once:
 
 python db_setup.py
 
-2️⃣ Start the Expense Tracker
+2️⃣ Start the Application
 
-Run the main program:
+Run the main file:
 
 python main.py
 
 🖼️ Screenshots
 🔹 Main Menu
-<img src="https://github.com/professor66607/Expense-Tracker/blob/main/Screenshot%202025-11-22%20212139.png?raw=true" width="600px">
-
-
-
-
+<p align="center"> <img src="https://github.com/professor66607/Expense-Tracker/blob/main/Screenshot%202025-11-22%20212139.png?raw=true" width="600"> </p>
 🔹 Add Expense
-<img src="https://github.com/professor66607/Expense-Tracker/blob/main/Screenshot%202025-11-22%20212203.png?raw=true" width="600px">
-
-
-
-
-
+<p align="center"> <img src="https://github.com/professor66607/Expense-Tracker/blob/main/Screenshot%202025-11-22%20212203.png?raw=true" width="600"> </p>
 👤 Author
-
 Yashwanth Gowda
-Developer | Python Enthusiast
-Feel free to connect or contribute 😊
+
+Developer • Python Enthusiast
+
+If you like this project, feel free to ⭐ it or contribute!
 
 📜 License
 
