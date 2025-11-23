@@ -73,6 +73,7 @@ VS Code
 Expense-Tracker/
 
 │
+
 ├── main.py                           # Handles menu + user interaction
 
 ├── crud_operations.py                # Add, view, update, delete, filter, search functions
