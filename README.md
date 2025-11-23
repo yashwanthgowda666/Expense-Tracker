@@ -72,10 +72,16 @@ VS Code
 Expense-Tracker/
 │
 ├── main.py               # Handles menu + user interaction
+
 ├── crud_operations.py    # Add, view, update, delete, filter, search functions
+
 ├── db_setup.py           # Creates SQLite database + table
+
 ├── expense.db            # Auto-generated SQLite database file
+
 └── README.md             # Project documentation
+
+
 
 ▶️ How to Run the Project
 1️⃣ Create the Database
