@@ -69,26 +69,32 @@ SQL
 VS Code
 
 📁 Project Structure
+
 Expense-Tracker/
+
 │
-├── main.py               # Handles menu + user interaction
+├── main.py                           # Handles menu + user interaction
 
-├── crud_operations.py    # Add, view, update, delete, filter, search functions
+├── crud_operations.py                # Add, view, update, delete, filter, search functions
 
-├── db_setup.py           # Creates SQLite database + table
+├── db_setup.py                       # Creates SQLite database + table
 
-├── expense.db            # Auto-generated SQLite database file
+├── expense.db                        # Auto-generated SQLite database file
 
-└── README.md             # Project documentation
+└── README.md                         # Project documentation
+
 
 
 
 ▶️ How to Run the Project
+
+
 1️⃣ Create the Database
 
 Run this command once:
 
 python db_setup.py
+
 
 2️⃣ Start the Application
 
@@ -96,11 +102,16 @@ Run the main file:
 
 python main.py
 
+
+
 🖼️ Screenshots
 🔹 Main Menu
 <p align="center"> <img src="https://github.com/professor66607/Expense-Tracker/blob/main/Screenshot%202025-11-22%20212139.png?raw=true" width="600"> </p>
 🔹 Add Expense
 <p align="center"> <img src="https://github.com/professor66607/Expense-Tracker/blob/main/Screenshot%202025-11-22%20212203.png?raw=true" width="600"> </p>
+
+
+
 👤 Author
 Yashwanth Gowda
 
